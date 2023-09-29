@@ -1,0 +1,10 @@
+credentials/
+data/
+import_data/
+pgadmin-data/
+logs/
+plugins/
+__pycache__/
+postgres/
+.vscode/*
+*.env
