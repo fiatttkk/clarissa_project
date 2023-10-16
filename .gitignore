@@ -8,3 +8,5 @@ __pycache__/
 postgres/
 .vscode/*
 *.env
+*.DS_STORE
+*.excalidraw
